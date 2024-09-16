@@ -8,7 +8,7 @@ This is a community-driven job board featuring deep tech, hard tech, and defense
 
 ## [Visit the Job Board](link unavailable)
 
-You can access the job board at: [(link unavailable)](link unavailable) (placeholder link for now)
+You can access the job board at: [(Gundo Job Board)](https://kaissaradi.github.io/GundoJobBoard/)
 
 ---
 
